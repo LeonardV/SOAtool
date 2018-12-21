@@ -1,0 +1,65 @@
+ /* logo */
+.skin-blue .main-header .logo {
+  background-color: #3c8dbc;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  text-align: left;
+  font-size: 18px;
+}
+/* logo when hovered */
+.skin-blue .main-header .logo .logo:hover {
+  background-color: #3c8dbc;
+}
+
+
+
+/* navbar (rest of the header) */
+/*
+.skin-blue .main-header .navbar {
+  background-color: #3c8dbc
+}        
+
+/* main sidebar */
+/*
+.skin-blue .main-sidebar {
+  background-color: #3c8dbc;
+}
+
+/* active selected tab in the sidebarmenu */
+/*
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a {
+  background-color: #3c8dbc;
+}
+
+/* other links in the sidebarmenu 
+.skin-blue .main-sidebar .sidebar .sidebar-menu a {
+  background-color: #00ff00;
+  color: #000000;
+}
+*/
+
+/* other links in the sidebarmenu when hovered */
+/*
+.skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+  background-color: #ff69b4;
+}
+/* toggle button when hovered  */                    
+/*
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+  background-color: #ff69b4;
+}
+
+
+/* value boxes */
+.info-box {
+  min-height: 45px;
+} 
+.info-box-icon {
+  height: 45px; 
+  line-height: 45px;
+} 
+.info-box-content {
+  padding-top: 12px; 
+  padding-bottom: 0px;
+}
+
