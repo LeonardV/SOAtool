@@ -14,7 +14,7 @@ source('global.R', local = TRUE)
 
 header <- dashboardHeader(title ="SOAtool - GGD v0.2", titleWidth = 250,
                           tags$li(actionLink("openModal", label = "", icon = icon("info")),
-                                  class = "dropdown", style = 'margin-right:20px'),
+                                  class = "dropdown", style = 'margin-right:0px'),
                           tags$li(actionLink("openModal2", label = "", icon = icon("history")),
                                   class = "dropdown", style = 'margin-right:20px'))
 
