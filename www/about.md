@@ -24,4 +24,6 @@ De SOAtool is gelicentieerd onder de [GNU General Public License](http://www.gnu
 
 #### Contact ####
 Email: <L.Vanbrabant@ggdwestbrabant.nl>
-Githup; 
+
+#### Repository ####
+Github: [https://github.com/LeonardV/SOAtool](https://github.com/LeonardV/SOAtool)
